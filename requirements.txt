@@ -1,0 +1,6 @@
+#UK Legislation Parser
+feedparser
+beautifulsoup4
+pandas
+tk
+easygui
