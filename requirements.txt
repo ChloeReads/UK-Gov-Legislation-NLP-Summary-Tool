@@ -5,3 +5,6 @@ pandas
 tk
 easygui
 sumy
+numpy
+lxml_html_clean
+requests
