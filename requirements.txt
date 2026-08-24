@@ -8,3 +8,4 @@ sumy
 numpy
 lxml_html_clean
 requests
+customtkinter
