@@ -9,3 +9,6 @@ numpy
 lxml_html_clean
 requests
 customtkinter
+transformers
+torch
+rouge-score
