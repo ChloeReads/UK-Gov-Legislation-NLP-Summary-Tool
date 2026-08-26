@@ -12,3 +12,4 @@ customtkinter
 transformers
 torch
 rouge-score
+stop-words
